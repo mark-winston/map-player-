@@ -1,0 +1,7 @@
+# Map Player - Google Maps API Key
+# Get your key from: https://console.cloud.google.com/google/maps-apis
+# Enable: Maps SDK for Android, Places API, Directions API
+MAPS_API_KEY=YOUR_API_KEY_HERE
+
+# Optional: SDK directory (auto-detected if not set)
+# sdk.dir=/path/to/android/sdk
